@@ -1,2 +1,2 @@
-# Unity_InventorySystem
-Scripts for an inventory system in Unity. It features two characters who unlock abilities by collecting items, and the inventory displays what they have unlocked
+# Description
+This Unity project includes scripts for an inventory system featuring two playable characters. As they explore the game world and collect items, they progressively unlock new abilities. The inventory system dynamically updates to reflect the abilities and items each character has obtained, providing visual feedback and tracking progression throughout the game.
